@@ -1,0 +1,9 @@
+#
+127.0.0.1 localhost
+::1 localhost
+
+127.0.0.1 www.vebr-Yannick-vanBaren-328376.org
+::1 www.vebr-Yannick-vanBaren-328376.org
+
+127.0.0.1 vebr-Yannick-vanBaren-328376.org
+::1 vebr-Yannick-vanBaren-328376.org
